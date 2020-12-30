@@ -1,4 +1,4 @@
-package com.example.appengine.java8.controller;
+package java8.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

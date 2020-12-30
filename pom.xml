@@ -20,15 +20,15 @@ limitations under the License.
     <!-- REQUIRED : your application must be packed as a .war to deploy on App Engine Standard -->
     <packaging>war</packaging>
 
-    <groupId>com.example.appengine-j8</groupId>
-    <artifactId>helloworld</artifactId>
+    <groupId>java8</groupId>
+    <artifactId>newyearquest</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-<!--    <parent>-->
-<!--        <groupId>com.google.cloud.samples</groupId>-->
-<!--        <artifactId>shared-configuration</artifactId>-->
-<!--        <version>1.0.21</version>-->
-<!--    </parent>-->
+    <!--    <parent>-->
+    <!--        <groupId>com.google.cloud.samples</groupId>-->
+    <!--        <artifactId>shared-configuration</artifactId>-->
+    <!--        <version>1.0.21</version>-->
+    <!--    </parent>-->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
